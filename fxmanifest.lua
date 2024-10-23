@@ -1,4 +1,9 @@
-description 'A simple loading screen!'
+fx_version 'cerulean'
+games {'gta5', 'rdr3'}
+
+author 'finnderweise'
+description 'A loading screen for FiveM and RedM.'
+version '1.0'
 
 files {
     'index.html',
