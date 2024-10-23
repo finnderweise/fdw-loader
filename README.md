@@ -1,7 +1,6 @@
 # FdW-Loader
 
-A simple loading screen resource for FiveM.
-This script is not finished at all, it is still pretty unchanged.
+A very simple loading screen resource for FiveM.
 
 Original script: * [synn-loadscreen](https://github.com/vecchiotom/synn-loadscreen)
 
