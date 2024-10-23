@@ -18,7 +18,7 @@ Original script: * [synn-loadscreen](https://github.com/vecchiotom/synn-loadscre
 
 ## Example
 
-![Loading screen example]((https://i.imgur.com/sIvD7Mc.png) "Example of single progressbar")
+https://i.imgur.com/sIvD7Mc.png
 
 <hr>
 
