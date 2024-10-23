@@ -1,19 +1,16 @@
-# Synn's Loading Screen
+# FdW-Loader
 
 A simple loading screen resource for FiveM.
+This script is not finished at all, it is still pretty unchanged.
+
+Original script: * [synn-loadscreen](https://github.com/vecchiotom/synn-loadscreen)
 
 <hr>
 
 ## Features
 
-- Progressbar  
-    - Can have multiple progress bars for each type.
-    - Can have single progress bars for all types
 - Loading screen image
 - Rotating loading messages
-- Music player
-    - Play videos directly from youtube.
-    - Pause and unpause and control volume on the fly.
 - Backgrounds
     - Rotating backgrounds with fade in and fade out.
 - All of the above can be edited in the config.
@@ -37,31 +34,15 @@ A simple loading screen resource for FiveM.
 
 ## Installing
 
-1) Download the files from the repository (or see [releases](https://github.com/Syntasu/synn-loadscreen/releases))
+1) Download the files from the repository (or see [releases](https://github.com/finnderweise/fdw-loader/releases))
 
-2) Create a folder in your resources folder named "synn-loadscreen"
+2) Create a folder in your resources folder named "fdw-loader"
 
 3) Add the files into the newly create folder in the resources.
 
-4) Add "start synn-loadscreen" to your server.cfg
+4) Add "start fdw-loader" to your server.cfg
 
 And you are good to go!
-
-<hr>
-
-## Known issues
-
-[Issue 1](https://github.com/Syntasu/synn-loadscreen/issues/1)
-Race condition between my loadscreen resource and the events that need to get passed to the loadscreen.
-Implications are that some loadbars do not fill and upon connecting nothing happens.
-
-<hr>
-
-## Contributing
-
-Feel free to make any pull request, if you believe it is an improvement to the current state.
-
-Feature requests and/or enhancements can be posted into the issues.
 
 <hr>
 
@@ -91,20 +72,5 @@ The follow source(s) were used to create this resource. This might be useful for
 * [Default loading screen of FiveM](https://github.com/citizenfx/fivem/blob/fde2bb3120cb1bc7a3ecfc31c3ff103896bd0b12/ext/ui-build/data/loadscreen/code.js)
 * [TheStonedTurtle's implementation](https://github.com/TheStonedTurtle/FiveM-PercentLoadScreen)
 * The Elements/FiveM developers in the [FiveM discord](https://discord.gg/GtvkUsc) for lending a hand.
-
-<hr>
-
-## Contact
-
-Feel free to contact me about issues, feature request or questions. (anything really!)
-
-If you wish to contact me:
-
-- Via the [FiveM discord](https://discord.gg/GtvkUsc), send me a friend request (PM's are disabled) 
-- Via my own discord, [here](https://discord.gg/QbMfZvH)
-- Via the [FiveM forums](https://forum.fivem.net/u/syntasu)
-- Via e-mail: `fivem at synn.nl`
-
-&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  <sub><sub>Discord is the prefered way of contact.</sub></sub>
 
 <hr>
