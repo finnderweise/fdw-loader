@@ -13,22 +13,12 @@ Original script: * [synn-loadscreen](https://github.com/vecchiotom/synn-loadscre
 - Rotating loading messages
 - Backgrounds
     - Rotating backgrounds with fade in and fade out.
-- All of the above can be edited in the config.
-
-<hr>
-
-## Planned
- 
-- Open for idea's! <3
 
 <hr>
 
 ## Example
 
 ![Loading screen example](docs/single.png "Example of single progressbar")
-![Loading screen example](docs/multi.png "Example of multiple progressbars")
-![Loading screen example](docs/collapse.png "Example of collapsed progressbars")
-
 
 <hr>
 
