@@ -18,19 +18,17 @@ Original script: * [synn-loadscreen](https://github.com/vecchiotom/synn-loadscre
 
 ## Example
 
-![Loading screen example](docs/single.png "Example of single progressbar")
+![Loading screen example]((https://i.imgur.com/sIvD7Mc.png) "Example of single progressbar")
 
 <hr>
 
 ## Installing
 
-1) Download the files from the repository (or see [releases](https://github.com/finnderweise/fdw-loader/releases))
+1) Download from ([releases](https://github.com/finnderweise/fdw-loader/releases))
 
-2) Create a folder in your resources folder named "fdw-loader"
+2) Add the the folder from the downloaded .zip file to your resources.
 
-3) Add the files into the newly create folder in the resources.
-
-4) Add "start fdw-loader" to your server.cfg
+3) Add "start fdw-loader" to your server.cfg.
 
 And you are good to go!
 
@@ -52,6 +50,7 @@ If you intend to modify this resource:
 
 If you intend to distibute
 - Have a reference back to this GitHub repository or FiveM topic.
+- Don't forget to mention [The original author](https://github.com/vecchiotom).
 
 <hr>
 
@@ -62,5 +61,6 @@ The follow source(s) were used to create this resource. This might be useful for
 * [Default loading screen of FiveM](https://github.com/citizenfx/fivem/blob/fde2bb3120cb1bc7a3ecfc31c3ff103896bd0b12/ext/ui-build/data/loadscreen/code.js)
 * [TheStonedTurtle's implementation](https://github.com/TheStonedTurtle/FiveM-PercentLoadScreen)
 * The Elements/FiveM developers in the [FiveM discord](https://discord.gg/GtvkUsc) for lending a hand.
+* [synn-loadscreen](https://github.com/vecchiotom/synn-loadscreen)
 
 <hr>
