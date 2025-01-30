@@ -9,7 +9,6 @@ Original script: * [synn-loadscreen](https://github.com/vecchiotom/synn-loadscre
 ## Features
 
 - Loading screen image
-- Rotating loading messages
 - Backgrounds
     - Rotating backgrounds with fade in and fade out.
 
